@@ -1,5 +1,5 @@
----
-title: Authorizing a personal access token for use with SAML single sign-on
+---Authorizing
+title:  a personal access token for use with SAML single sign-on
 intro: 'To use a personal access token with an organization that uses SAML single sign-on (SSO), you must first authorize the token.'
 redirect_from:
   - /articles/authorizing-a-personal-access-token-for-use-with-a-saml-single-sign-on-organization/
